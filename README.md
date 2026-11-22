@@ -3,7 +3,7 @@
 
 The same mini mic, stripped back: **just a PTT switch, an electret capsule and a 3.5 mm jack**. The housing has been changed, for easier printing on an ordinary home FDM printer.
 
-This is a PCB based mic - all files are available below.
+This is a PCB based mic - all files are available below. No changes will be made to the PCB (apart from adding a KX2 version in future). Small revisions will focus on the housing.
 
 **Size:** approx. 46.7 × 18.8 × 14 mm assembled.
 
@@ -68,7 +68,6 @@ The housing is designed around the specific BOM  above - substitutes may not fit
 - The side walls bow out slightly and all four corners are rounded, to resist warping and corner lifting.
 - A 0.8 mm chamfer on the bed edges hides elephant's foot. A small groove where the halves meet hides any slight mismatch.
 
-No changes will be made to the PCB (apart from adding a KX2 version). Revisions will focus on the housing, based on feedback.
 ---
 
 Designed by M9OMS.
