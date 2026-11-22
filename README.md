@@ -1,9 +1,9 @@
 # PTTini
-**An open source, stripped back version of the M9OMS MyTiMic.**
+**An open (ish) source, stripped back version of the M9OMS MyTiMic.**
 
-The same mini mic, stripped back: **just a PTT switch, an electret capsule and a 3.5 mm jack**. The housing has been changed, for easier printing on an ordinary home FDM printer.
+The same mini mic, stripped back: **PCB based, with a PTT tactile switch, an electret capsule and a threaded 3.5 mm jack**. The housing has been changed, for easier printing on an ordinary home FDM printer.
 
-This is a PCB based mic - all files are available below. No changes will be made to the PCB (apart from adding a KX2 version in future). Small revisions will focus on the housing.
+Whilst it doesn't have the MyTiMic's PTT debounce or bypassing, it retains the stitched ground planes. All files are available below. No changes will be made to the PCB (apart from adding a KX2 version in future). Small revisions will focus on the housing.
 
 **Size:** approx. 46.7 × 18.8 × 14 mm assembled.
 
