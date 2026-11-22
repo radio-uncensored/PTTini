@@ -10,11 +10,12 @@ This is a PCB based mic - all files are available below.
 **MyTiMic - full version** https://m9oms.com/product/mytimic_v_1-microphone/
 
 ---
-## BOM & Gerber:
 
-**https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber**
+## BOM & Gerber:
+**[https://github.com/radio-uncensored/PTTini/tree/main/STEP](https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber)**
 These production files only suit QMX TRS wiring - check compatibility with your radio.
----
+
+
 
 ## STEP Files:
 **https://github.com/radio-uncensored/PTTini/tree/main/STEP**
