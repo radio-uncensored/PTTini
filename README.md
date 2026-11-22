@@ -12,10 +12,9 @@ This is a PCB based mic - all files are available below.
 ---
 
 ## BOM & Gerber:
-**[https://github.com/radio-uncensored/PTTini/tree/main/STEP](https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber)**
+**https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber**
+
 These production files only suit QMX TRS wiring - check compatibility with your radio.
-
-
 
 ## STEP Files:
 **https://github.com/radio-uncensored/PTTini/tree/main/STEP**
