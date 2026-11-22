@@ -1,11 +1,11 @@
 # PTTini
 **An open source, stripped back version of the M9OMS MyTiMic. Download the BOM, Gerber, CPL and STEP files.**
 
-**MyTiMic** [https://m9oms.com/product/mytimic_v_1-microphone/].
+**MyTiMic** https://m9oms.com/product/mytimic_v_1-microphone/
 
 The same mini mic, stripped back: **just a PTT switch, an electret capsule and a 3.5 mm jack**. The housing has been changed, for easier printing on an ordinary home FDM printer.
 
-This is a PCB based mic: **Download the BOM, Gerber and CPL files here (https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber)**
+This is a PCB based mic: **Download the BOM, Gerber and CPL files here https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber**
 These production files only suit QMX TRS wiring - check compatibility with your radio.
 
 **Size:** approx. 46.7 × 18.8 × 14 mm assembled.
@@ -13,6 +13,7 @@ These production files only suit QMX TRS wiring - check compatibility with your 
 ---
 
 ## STEP Files
+
 
 | File | What it is |
 |---|---|
