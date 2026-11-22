@@ -13,8 +13,7 @@ These production files only suit QMX TRS wiring - check compatibility with your 
 ---
 
 ## STEP Files
-
-
+https://github.com/radio-uncensored/PTTini/tree/main/STEP
 | File | What it is |
 |---|---|
 | `M9OMS_PTTini_bottom.step` | Bottom half, already in print orientation |
