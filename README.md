@@ -5,7 +5,7 @@
 
 The same mini mic, stripped back: **just a PTT switch, an electret capsule and a 3.5 mm jack**. The housing has been changed, for easier printing on an ordinary home FDM printer.
 
-This is a PCB based mic: **Download the BOM, Gerber and CPL files here. [https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber]**
+This is a PCB based mic: **Download the BOM, Gerber and CPL files here (https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber)**
 These production files only suit QMX TRS wiring - check compatibility with your radio.
 
 **Size:** approx. 46.7 × 18.8 × 14 mm assembled.
