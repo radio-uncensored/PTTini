@@ -12,7 +12,7 @@ These production files only suit QMX TRS wiring - check compatibility with your 
 
 ---
 
-## Files
+## STEP Files
 
 | File | What it is |
 |---|---|
