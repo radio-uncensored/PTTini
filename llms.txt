@@ -1,0 +1,24 @@
+# M9OMS PTTini
+
+> An open (ish) source, stripped back version of the M9OMS MyTiMic mini mic:
+> PCB based, with a PTT tactile switch, an electret capsule and a threaded
+> 3.5 mm jack, in a housing designed for printing on an ordinary home FDM
+> printer. Approx. 46.7 x 18.8 x 14.5 mm assembled.
+
+It does not have the MyTiMic's PTT debounce or bypassing, but retains the
+stitched ground planes. The production files only suit QMX TRS wiring; check
+compatibility with your radio. Licence: CC BY-NC-SA 4.0.
+
+## Documentation
+
+- [Overview, print settings and parts list](https://radio-uncensored.github.io/PTTini/): what it is, print settings, parts needed, design notes
+- [Housing change log](https://radio-uncensored.github.io/PTTini/STEP/changelog.html): changes between housing versions
+
+## Files
+
+- [BOM, Gerber and CPL](https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber): production files for the QMX version
+- [STEP files](https://github.com/radio-uncensored/PTTini/tree/main/STEP): top, bottom and full assembly, in print orientation
+
+## Related
+
+- [MyTiMic (full version)](https://m9oms.com/product/mytimic_v_1-microphone/): with PTT filtering and RF bypassing

@@ -1,0 +1,41 @@
+title: "M9OMS"
+description: >-
+  An open (ish) source, stripped back version of the MyTiMic. Download the
+  BOM, Gerber, CPL and STEP files.
+
+url: "https://radio-uncensored.github.io"
+baseurl: "/PTTini"
+
+theme: jekyll-theme-cayman
+show_downloads: false
+
+plugins:
+  - jekyll-seo-tag      # emits <title>, <meta description>, Open Graph / Twitter cards
+  - jekyll-sitemap      # auto-generates /sitemap.xml for crawlers
+  # jekyll-relative-links and jekyll-readme-index are enabled by GitHub Pages by
+  # default: README.md becomes the home page and [text](file.md) links resolve
+  # to the correct .html URLs automatically.
+
+# Per-page titles and descriptions, set here so README.md and the change log
+# stay unchanged (front matter in README.md would show as a table on GitHub).
+defaults:
+  - scope:
+      path: "README.md"
+    values:
+      title: "M9OMS PTTini - 3D Printed PTT Mini Mic for the QRP Labs QMX"
+      description: "An open (ish) source, stripped back version of the MyTiMic. Download the BOM, Gerber, CPL and STEP files."
+      image: /images/image_v1.1.png
+  - scope:
+      path: "STEP/changelog.md"
+    values:
+      title: "PTTini Housing Change Log - M9OMS"
+      description: "Change log for the 3D printed PTTini mini mic housing: dimensions, clearances and print settings by version."
+  - scope:
+      path: "googled*.html"
+    values:
+      sitemap: false
+
+# Google: Search Console > Add property (URL prefix) > HTML tag (the content="..." value).
+webmaster_verifications:
+  bing: "B8FDCB19B66032EF011B60EA4D224A21"
+  # google: "PASTE_GOOGLE_META_TOKEN_HERE"
