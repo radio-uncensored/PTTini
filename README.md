@@ -24,9 +24,9 @@ These production files only suit QMX TRS wiring - check compatibility with your 
 **https://github.com/radio-uncensored/PTTini/tree/main/STEP**
 | File | What it is | Updated |
 |---|---|---|
-| `M9OMS_PTTini_bottom.step` | Bottom half, already in print orientation | 23/11/26 07:55z | 
-| `M9OMS_PTTini_top.step` | Top half, already in print orientation (roof down) | 23/11/26 07:55z | 
-| `M9OMS_PTTini_full_assy.step` | Both halves assembled with the PCB and electret, for editing in CAD | 23/11/26 07:55z | 
+| `M9OMS_PTTini_bottom**.step` | Bottom half, already in print orientation | 23/11/26 07:55z | 
+| `M9OMS_PTTini_top**.step` | Top half, already in print orientation (roof down) | 23/11/26 07:55z | 
+| `M9OMS_PTTini_full_assy**.step` | Both halves assembled with the PCB and electret, for editing in CAD | 23/11/26 07:55z | 
 | `changelog.md` | Housing change log | 23/11/26 07:55z | 
 
 PrusaSlicer, Bambu Studio and OrcaSlicer should open the files directly.
