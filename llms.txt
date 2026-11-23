@@ -17,7 +17,7 @@ compatibility with your radio. Licence: CC BY-NC-SA 4.0.
 ## Files
 
 - [BOM, Gerber and CPL](https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber): production files for the QMX version
-- [STEP files](https://github.com/radio-uncensored/PTTini/tree/main/STEP): top, bottom and full assembly, in print orientation
+- [STEP files](https://github.com/radio-uncensored/PTTini/tree/main/STEP): top, bottom and full assembly
 
 ## Related
 
