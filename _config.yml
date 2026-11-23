@@ -28,7 +28,7 @@ defaults:
   - scope:
       path: "STEP/changelog.md"
     values:
-      title: "PTTini Housing Change Log - M9OMS"
+      title: "PTTini Housing Change Log"
       description: "Change log for the 3D printed PTTini mini mic housing: dimensions, clearances and print settings by version."
   - scope:
       path: "googled*.html"
