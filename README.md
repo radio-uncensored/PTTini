@@ -7,7 +7,7 @@
 
 The same mini mic, stripped back: **PCB based, with a PTT tactile switch, an electret capsule and a threaded 3.5 mm jack**. The housing has been changed, for easier printing on an ordinary home FDM printer.
 
-Whilst it doesn't have the MyTiMic's PTT debounce or bypassing, it retains the stitched ground planes. All files are available below. No changes will be made to the PCB (apart from adding a KX2 version in future). Small revisions will focus on the housing.
+Whilst it doesn't have the MyTiMic's PTT debounce or bypassing, it retains the stitched ground planes. All files are available below. ** KX2, and 'DUAL' versions of the PCB have been added**. Small revisions will focus on the housing.
 
 **Size:** approx. 46.7 × 18.8 × 14.5 mm assembled.
 
@@ -18,7 +18,7 @@ Whilst it doesn't have the MyTiMic's PTT debounce or bypassing, it retains the s
 ## BOM & Gerber:
 **https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber**
 
-These production files only suit QMX TRS wiring - check compatibility with your radio.
+Please read 'PCB Info' before downloading.
 
 ## STEP Files:
 **https://github.com/radio-uncensored/PTTini/tree/main/STEP**
