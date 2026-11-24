@@ -25,4 +25,4 @@ Next to the PTT button, each side of the board has two broken traces, with the s
 
 ![DUAL PCB, bottom side (KX2)](../images/dual_bottom.png)
 
-**Ordering note:** because of its dual-purpose design, the DUAL PCB may trigger a ratline error when you place an order. The schematic appears correct, but I have not ordered this version myself, so I cannot confirm its manufacturing or functional accuracy.
+**Ordering note:** because of its dual-purpose design, the DUAL PCB may trigger a ratline error. The schematic appears correct, but I have not ordered this version myself, so I cannot confirm its manufacturing or functional accuracy.
