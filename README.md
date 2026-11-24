@@ -7,7 +7,7 @@
 
 The same mini mic, stripped back: **PCB based, with a PTT tactile switch, an electret capsule and a threaded 3.5 mm jack**. The housing has been changed, for easier printing on an ordinary home FDM printer.
 
-Whilst it doesn't have the MyTiMic's PTT debounce or bypassing, it retains the stitched ground planes. All files are available below. ** KX2, and 'DUAL' versions of the PCB have been added**. Small revisions will focus on the housing.
+Whilst it doesn't have the MyTiMic's PTT debounce or bypassing, it retains the stitched ground planes. All files are available below. ** KX2, and 'DUAL' versions of the PCB have been added**. Future revisions will focus on the housing if changes need to be made.
 
 **Size:** approx. 46.7 × 18.8 × 14.5 mm assembled.
 
