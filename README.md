@@ -18,7 +18,7 @@ Whilst it doesn't have the MyTiMic's PTT debounce or bypassing, it retains the s
 ## BOM & Gerber:
 **https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber**
 
-Please read 'PCB Info' before downloading.
+Please read 'PCB_info.md' before downloading.
 
 ## STEP Files:
 **https://github.com/radio-uncensored/PTTini/tree/main/STEP**
