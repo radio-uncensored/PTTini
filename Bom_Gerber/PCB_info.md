@@ -14,9 +14,9 @@ The housing is designed around a pocket for the AOM-5024L-HD-F-R electret capsul
 
 ## DUAL version
 
-The DUAL PCB has traces on both sides of the board, so it is a 4-layer PCB: the additional layers maintain a ground plane beneath every trace. As a result, it costs more to manufacture. The Gerber was revised 24/11/26 17:45z (minor).
+The DUAL PCB has traces on both sides of the board, so it is a 4-layer PCB: the additional layers maintain a ground plane beneath every trace. As a result, it costs more to manufacture. The Gerber was revised 25/11/26 11:47z (improved solder bridges).
 
-Next to the PTT button, each side of the board has two broken traces, with the solder mask removed so they can be joined. To set the wiring, bridge both gaps with solder on the side that matches your radio:
+Next to the PTT button, each side of the board has two solder bridges. To set the wiring, bridge both gaps with solder on the side that matches your radio:
 
 - **Top side, labelled "QMX":** QMX wiring.
 - **Bottom side, labelled "KX2":** KX2 wiring.
