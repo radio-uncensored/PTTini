@@ -25,4 +25,4 @@ Next to the PTT button, each side of the board has two solder bridges. To set th
 
 ![DUAL PCB, bottom side (KX2)](../images/dual_bottom.png)
 
-**Ordering note:** because of its dual-purpose design, the DUAL PCB may trigger a ratline error. The schematic appears correct, but I have not ordered this version myself, so I cannot confirm its manufacturing or functional accuracy.
+**Ordering note:** because of its dual-purpose design, the DUAL PCB triggers a ratline error in EDA. The schematic appears correct, but I have not ordered this version myself, so I cannot confirm its manufacturing or functional accuracy.
