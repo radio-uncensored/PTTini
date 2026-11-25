@@ -44,8 +44,8 @@ PrusaSlicer, Bambu Studio and OrcaSlicer should open the files directly.
 - **Brim:** not needed
 
 **Supports**
-- **Bottom half:** none.
 - **Top half:** supports **only in the PTT dish** (the shallow recess on the bed face). Use support painting or a support enforcer, and block supports everywhere else. Remove them gently and lightly sand the dish if needed.
+- **Bottom half:** (optional supports in the screw recess).
 
 ---
 
