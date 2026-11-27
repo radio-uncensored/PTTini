@@ -8,10 +8,11 @@
 It does not have the MyTiMic's PTT debounce or bypassing, but retains the
 stitched ground planes. Licence: CC BY-NC-SA 4.0.
 
-The PCB comes in two versions:
+The PCB comes in three versions:
 
 - QMX version: wired for the QMX, (tr)uSDX, uSDX and Pebble HF.
 - KX2 version: wired for the KX2, KX3, BG2FX, FX-4CR, zBitx, sBitx and LARCSET.
+- DUAL version: 4-layer PCB, wiring set by solder bridges (QMX or KX2).
 
 ## Documentation
 
