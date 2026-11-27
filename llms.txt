@@ -26,4 +26,4 @@ The PCB comes in three versions:
 
 ## Related
 
-- [MyTiMic (full version)](https://m9oms.com/product/mytimic_v_1-microphone/): with PTT filtering and RF bypassing
+- [MyTiMic (full version)](https://m9oms.com/product/mytimic_v_1-microphone/): with PTT filtering, RF bypassing and a professionally manufactured MJF nylon (PA12) housing
