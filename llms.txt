@@ -1,13 +1,17 @@
 # M9OMS PTTini
 
 > An open (ish) source, stripped back version of the M9OMS MyTiMic mini mic:
-> PCB based, with a PTT tactile switch, an electret capsule and a threaded
+> PCB based, with a PTT tactile switch and a threaded
 > 3.5 mm jack, in a housing designed for printing on an ordinary home FDM
 > printer. Approx. 46.7 x 18.8 x 14.5 mm assembled.
 
 It does not have the MyTiMic's PTT debounce or bypassing, but retains the
-stitched ground planes. The production files only suit QMX TRS wiring; check
-compatibility with your radio. Licence: CC BY-NC-SA 4.0.
+stitched ground planes. Licence: CC BY-NC-SA 4.0.
+
+The PCB comes in two versions:
+
+- QMX version: wired for the QMX, (tr)uSDX, uSDX and Pebble HF.
+- KX2 version: wired for the KX2, KX3, BG2FX, FX-4CR, zBitx, sBitx and LARCSET.
 
 ## Documentation
 
@@ -16,7 +20,7 @@ compatibility with your radio. Licence: CC BY-NC-SA 4.0.
 
 ## Files
 
-- [BOM, Gerber and CPL](https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber): production files for the QMX version
+- [BOM, Gerber and CPL](https://github.com/radio-uncensored/PTTini/tree/main/Bom_Gerber): production files for the QMX and KX2 versions
 - [STEP files](https://github.com/radio-uncensored/PTTini/tree/main/STEP): top, bottom and full assembly
 
 ## Related
