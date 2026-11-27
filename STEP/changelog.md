@@ -39,3 +39,9 @@
 ## v1.0 – 2026-11-22
 
 - Unfinished release.
+
+  ---
+
+Designed by M9OMS.
+Licence: Strictly CC BY-NC-SA 4.0.
+
